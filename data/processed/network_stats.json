@@ -1,0 +1,112 @@
+{
+  "이재명": {
+    "ideology": "진보",
+    "utterance_count": 64,
+    "degree_centrality": 0.4,
+    "betweenness_centrality": 0.0667,
+    "eigenvector_centrality": 0.6692,
+    "논증형": 38,
+    "진영공격형": 0,
+    "단순언급형": 26
+  },
+  "정청래": {
+    "ideology": "진보",
+    "utterance_count": 5,
+    "degree_centrality": 0.1,
+    "betweenness_centrality": 0.0,
+    "eigenvector_centrality": 0.101,
+    "논증형": 3,
+    "진영공격형": 0,
+    "단순언급형": 2
+  },
+  "문재인": {
+    "ideology": "진보",
+    "utterance_count": 7,
+    "degree_centrality": 0.2,
+    "betweenness_centrality": 0.0,
+    "eigenvector_centrality": 0.3925,
+    "논증형": 0,
+    "진영공격형": 1,
+    "단순언급형": 6
+  },
+  "유승민": {
+    "ideology": "중도",
+    "utterance_count": 1,
+    "degree_centrality": 0.2,
+    "betweenness_centrality": 0.0667,
+    "eigenvector_centrality": 0.1905,
+    "논증형": 0,
+    "진영공격형": 1,
+    "단순언급형": 0
+  },
+  "윤석열": {
+    "ideology": "보수",
+    "utterance_count": 5,
+    "degree_centrality": 0.3,
+    "betweenness_centrality": 0.0444,
+    "eigenvector_centrality": 0.593,
+    "논증형": 1,
+    "진영공격형": 1,
+    "단순언급형": 3
+  },
+  "박지원": {
+    "ideology": "진보",
+    "utterance_count": 1,
+    "degree_centrality": 0.0,
+    "betweenness_centrality": 0.0,
+    "eigenvector_centrality": 0.0,
+    "논증형": 0,
+    "진영공격형": 0,
+    "단순언급형": 1
+  },
+  "김기현": {
+    "ideology": "보수",
+    "utterance_count": 13,
+    "degree_centrality": 0.0,
+    "betweenness_centrality": 0.0,
+    "eigenvector_centrality": 0.0,
+    "논증형": 3,
+    "진영공격형": 10,
+    "단순언급형": 0
+  },
+  "이준석": {
+    "ideology": "보수",
+    "utterance_count": 1,
+    "degree_centrality": 0.0,
+    "betweenness_centrality": 0.0,
+    "eigenvector_centrality": 0.0,
+    "논증형": 0,
+    "진영공격형": 1,
+    "단순언급형": 0
+  },
+  "나경원": {
+    "ideology": "보수",
+    "utterance_count": 8,
+    "degree_centrality": 0.0,
+    "betweenness_centrality": 0.0,
+    "eigenvector_centrality": 0.0,
+    "논증형": 6,
+    "진영공격형": 2,
+    "단순언급형": 0
+  },
+  "우상호": {
+    "ideology": "진보",
+    "utterance_count": 14,
+    "degree_centrality": 0.0,
+    "betweenness_centrality": 0.0,
+    "eigenvector_centrality": 0.0,
+    "논증형": 11,
+    "진영공격형": 2,
+    "단순언급형": 1
+  },
+  "윤건영": {
+    "ideology": "진보",
+    "utterance_count": 7,
+    "degree_centrality": 0.0,
+    "betweenness_centrality": 0.0,
+    "eigenvector_centrality": 0.0,
+    "논증형": 4,
+    "진영공격형": 0,
+    "단순언급형": 3
+  }
+}
