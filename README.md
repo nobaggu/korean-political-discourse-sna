@@ -171,7 +171,7 @@ BigKinds 뉴스 데이터 · GPT-4o-mini 발언 분류 · NetworkX/Pyvis 시각�
 
 ![Graph 1](이미지/graph1.png)
 
-**📎 [인터랙티브 그래프 열기 →](https://nobaggu.github.io/korean-political-discourse-sna/output/graph1_directed.html)**
+**📎 [인터랙티브 그래프 열기 →](https://sooyoung-park07.github.io/korean-political-discourse-sna/output/graph1_directed.html)**
 
 임종석 노드 하나에 빨간 화살표가 집중되는 **스타(star) 구조**가 시각적으로 드러난다. 임종석을 타겟으로 한 발언 107개 중 공격형이 77개(72%). 보수→진보 교차 발언 73개 대 진보→보수 7개로 극도로 비대칭적이다.
 
@@ -183,7 +183,7 @@ BigKinds 뉴스 데이터 · GPT-4o-mini 발언 분류 · NetworkX/Pyvis 시각�
 
 ![Graph 2](이미지/graph2.png)
 
-**📎 [인터랙티브 그래프 열기 →](https://nobaggu.github.io/korean-political-discourse-sna/output/graph2_bipartite.html)**
+**📎 [인터랙티브 그래프 열기 →](https://sooyoung-park07.github.io/korean-political-discourse-sna/output/graph2_bipartite.html)**
 
 진보 정치인이 "남북관계(157회)", "2국가론(163회)", "통일(129회)", "평화(26회)"로 다양한 정책 키워드를 다룬 반면, 보수는 "북한(34회)"·**"헌법(12회)"** 으로 안보·합헌성 프레임에 집중했다. 담론의 프레이밍 전쟁이 구조적으로 드러난다.
 
@@ -195,7 +195,7 @@ BigKinds 뉴스 데이터 · GPT-4o-mini 발언 분류 · NetworkX/Pyvis 시각�
 
 ![Graph 3](이미지/graph3.png)
 
-**📎 [인터랙티브 그래프 열기 →](https://nobaggu.github.io/korean-political-discourse-sna/output/graph3_cooccurrence.html)**
+**📎 [인터랙티브 그래프 열기 →](https://sooyoung-park07.github.io/korean-political-discourse-sna/output/graph3_cooccurrence.html)**
 
 공동등장 1위 문재인↔임종석(60건), 윤석열↔이재명(55건). 그래프 1과 비교하면 핵심이 드러난다 — **같은 기사에 함께 언급은 많이 되지만, 실제 논증적 교환은 거의 없다.**
 
