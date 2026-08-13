@@ -6,3 +6,5 @@ openai
 networkx
 pyvis
 tqdm
+scikit-learn
+kiwipiepy
